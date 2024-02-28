@@ -407,6 +407,53 @@ ul {
   color: var(--base-color-description);
 }
 
+.network {
+  width: 100%;
+}
+
+.network__title {
+  margin: 150px auto 20px;
+  text-align: center;
+  width: 383.41px;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 50px;
+  color: var(--base-color-darkblue);
+}
+
+.network__description {
+  margin: 0 auto;
+  text-align: center;
+  width: 555px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: var(--base-color-description);
+}
+
+.network__description-regular {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  color: var(--base-color-description);
+}
+
+.network__img-map {
+  display: block;
+  margin: 155.81px auto 35.81px;
+  width: 1060px;
+  height: 537.77px;
+}
+
+.network__sponsored {
+  max-width: 1135.64px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 60px auto 0;
+}
+
 /* @media screen and (max-width: 375px) {
 } */
 
