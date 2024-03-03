@@ -824,23 +824,18 @@ ul {
 .footer_help-item:last-child {
   margin-bottom: 0;
 }
-/* @media screen and (max-width: 375px) {
-} */
 
-/* @media screen and (min-width: 376px) and (max-width: 768px) {
-  body {
-    background-color: black;
-  }
-} */
+@media screen and (max-width: 375px) {
+}
 
-/* @media screen and (min-width: 769px) and (max-width: 1440px) {
-  body {
-    background-color: red;
-  }
-} */
+@media screen and (min-width: 376px) and (max-width: 768px) {
+}
 
-/* @media screen and (min-width: 1441px) {
-  body {
-    background-color: black;
-  }
-} */
+@media screen and (min-width: 769px) and (max-width: 960px) {
+}
+
+@media screen and (min-width: 961px) and (max-width: 1440px) {
+}
+
+@media screen and (min-width: 1441px) and (max-width: 1600px) {
+}
